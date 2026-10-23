@@ -2,7 +2,7 @@
 
 # Giovan Stahlhofer
 
-Software Engineer
+Software Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovan-stahlhofer-7b9817254/?isSelfProfile=true)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stahlhofer_giovan/)
@@ -13,6 +13,7 @@ Software Engineer
 
 ## About me
 
+- 🎓 I’m pursuing a degree in Software Engineering at **UNIJUÍ (Universidade Regional do Noroeste do Estado do Rio Grande do Sul)**.
 - 💻 I’m currently working at **ORION DESENVOLVIMENTO DE SISTEMAS LTDA.**, developing multiplatform software, management systems, automation for industrial and agro-industrial plants, and IoT system integration.
 - 🖊️ I’m currently learning **Dart, Flutter, JavaScript, Node.js, PHP, React**
 - 📫 How to reach me: **giovanstahlhofer8074@gmail.com**
